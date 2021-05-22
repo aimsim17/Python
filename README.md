@@ -6,7 +6,7 @@ pages of my python projects
 
 If you want to embed images, this is how you do it:
 
-![Image of PCA](https://github.com/aimsim17/Python/blob/main/folder1/PCA.png)
+![](https://github.com/aimsim17/Python/blob/main/folder1/PCA.png)
 
 
 Python Sample Codes:
