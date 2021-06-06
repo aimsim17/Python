@@ -15,11 +15,23 @@
 ![](img/05Cert3.JPG)
 
 # Testimony
+![](img/06Testimony.JPG)
+
 # Before We Begin
+![](img/07Before.JPG)
+
 # Two Broad Types of Machine Learning
+![](img/08Two.JPG)
+
 # Supervised Machine Learning (General Steps)
-# Supervised Machine Learning (General Steps)
+![](img/09Supervised.JPG)
+
+# Unsupervised Machine Learning (General Steps)
+![](img/10Unsupervised.JPG)
+
 # May Sample Codes for Supervised Learning
+![](img/11MySample.JPG)
+
 # Classification Report (Precision vs Recall, and F1-Score)
 # Classification Report
 # Compare Results (Neural Network adn Log Reg)
