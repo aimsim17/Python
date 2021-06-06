@@ -6,8 +6,14 @@
 ![](img/02Purpose.JPG)
 
 # Certificates - Business Courses
+![](img/03Cert1.JPG)
+
 # Certificates - Machine Learning Course
+![](img/04Certs2.JPG)
+
 # Certificates - Python Data Structures, Algorithm and Interviews, Web Development Bootcamp 2021
+![](img/05Cert3.JPG)
+
 # Testimony
 # Before We Begin
 # Two Broad Types of Machine Learning
