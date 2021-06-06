@@ -1,18 +1,18 @@
 
 # Agenda
-![](/img/01Agenda.JPG)
+>![](/img/01Agenda.JPG)
 
 # Purpose for these Slides
-![](img/02Purpose.JPG)
+>![](/img/02Purpose.JPG)
 
 # Certificates - Business Courses
->![](img/03Cert1.JPG)
+>![](/img/03Cert1.JPG)
 
 # Certificates - Machine Learning Course
->![](img/04Certs2.JPG)
+>![](/img/04Certs2.JPG)
 
 # Certificates - Python Data Structures, Algorithm and Interviews, Web Development Bootcamp 2021
->![](img/05Cert3.JPG)
+>![](/img/05Cert3.JPG)
 
 # Testimony
 >![](img/06Testimony.JPG)
