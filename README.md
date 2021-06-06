@@ -1,6 +1,6 @@
 
 # Agenda
-![](img/01Agenda.JPG)
+![](/img/01Agenda.JPG)
 
 # Purpose for these Slides
 ![](img/02Purpose.JPG)
