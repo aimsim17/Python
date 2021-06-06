@@ -1,12 +1,9 @@
 # Python
 pages of my python projects
 
-# this is a sample page to allow public access
+# Agenda
 
-
-If you want to embed images, this is how you do it:
-
-![](img/PCA.png)
+![](img/01Agenda.JPG)
 
 
 Python Sample Codes:
