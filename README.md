@@ -3,7 +3,7 @@
 >![](/img/01Agenda.JPG)
 
 # Purpose for these Slides
->![](/img/02Purpose.JPG)
+>![](/img/02PurposeSUSS.JPG)
 
 # Certificates - Business Courses
 >![](/img/03Cert1.JPG)
