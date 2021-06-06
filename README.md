@@ -1,9 +1,9 @@
 
 # Agenda
-![](img/01Agenda.JPG)
+>![](img/01Agenda.JPG)
 
 # Purpose for these Slides
-![](img/02Purpose.JPG)
+>![](img/02Purpose.JPG)
 
 # Certificates - Business Courses
 ![](img/03Cert1.JPG)
@@ -33,12 +33,31 @@
 ![](img/11MySample.JPG)
 
 # Classification Report (Precision vs Recall, and F1-Score)
+![](img/12Classification1.JPG)
+
 # Classification Report
+![](img/13Classification2.JPG)
+
 # Compare Results (Neural Network adn Log Reg)
+![](img/14Compare.JPG)
+
 # Confusion Matrix (2x2 Matrix)
+![](img/15Confusion.JPG)
+
 # Unsupervised Learning (PCA)
+![](img/16UnsupervisedPCA.JPG)
+
 # Mini Project1 : Singapore Pools (4D)
+![](img/17Mini1.JPG)
+
 # Mini Project1 : Singapore Pools (4D)
+![](img/18Mini2.JPG)
+
 # Mini Project2 : Sample Codes on Models
+![](img/19Mini1.JPG)
+
 # Mini Project2 : Outputs
+![](img/20Mini2.JPG)
+
 # Machine Learning Cheat Sheet
+![](img/21CheatSheet.JPG)
